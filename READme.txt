@@ -1,0 +1,1 @@
+Todos os aquivos necesssitam de upload caso esteja utilizando o jupiter notebook, basta rodar o arquivo Testesmakrio.ipynb, esse contem os graficos e as correlaçoes entre gastos.
